@@ -1,0 +1,4 @@
+venv
+env
+tutorial-env
+weather/db.sqlite3
